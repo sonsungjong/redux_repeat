@@ -1,0 +1,6 @@
+/* 전체적으로 적용할 css */
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
